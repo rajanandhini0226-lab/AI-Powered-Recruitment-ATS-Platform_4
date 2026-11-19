@@ -1,0 +1,4 @@
+Alice Johnson
+alice.johnson@example.com  +91 98765 43210
+Senior Python Developer with 6 years of experience building REST APIs using FastAPI, Django and PostgreSQL.
+Skills: Python, FastAPI, SQL, Docker, AWS, Git, pytest, machine learning, pandas, React.
